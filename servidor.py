@@ -14,7 +14,7 @@ def hello_world():
   <body>
     <h1>La foto de Duna</h1>
         <h2> Es la más bonita</h2>
-    <img src="/Users/ana/Desktop/pruebarepositorio/DSC_0601.jpg" alt="Mi imagen de prueba">
+    <img src="file:////Users/ana/Desktop/pruebarepositorio/DSC_0601.jpg"/>
   </body>
 </html> '''
 
