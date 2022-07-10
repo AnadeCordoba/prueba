@@ -12,7 +12,9 @@ def hello_world():
     <title>Mi pagina de prueba</title>
   </head>
   <body>
-    <img src="DSC_0601.jpg" alt="Mi imagen de prueba">
+    <h1>La foto de Duna</h1>
+        <h2> Es la más bonita</h2>
+    <img src="/Users/ana/Desktop/pruebarepositorio/DSC_0601.jpg" alt="Mi imagen de prueba">
   </body>
 </html> '''
 
